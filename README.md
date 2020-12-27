@@ -21,3 +21,13 @@
  * `.ncgr` = `.PNG` (just open as PNG, don't need to remove the header from HEX)
 
  * `.nmd`  - Are filled with 00 01 11 00 only from what I've seen, so that is a lead I guess
+
+
+
+With github.com/scurest/apicula/
+
+* **Scurest's [Apicula](https://github.com/scurest/apicula/blob/master/README.md)**, can be used for working with those models overall.
+- Quick command reminder:
+    apicula view p00_00.bmd p00_00.btx
+
+* **Gericom's [MKDS Course Modifier](https://gbatemp.net/threads/mkds-course-modifier.299444/)**,  can be used for texture edits, exporting and importing as png.
